@@ -1,5 +1,7 @@
 # Pydcast Aggregator
 
+![alt text](static/imgs/demo.png "Gif showing a gameplay")
+
 ## Overview
 Pydcast Aggregator is a tool designed to collect and organize the latest tech podcasts from various sources, making it easy for users to stay updated with the latest trends and discussions in the tech world.
 
